@@ -1,0 +1,25 @@
+circle 100 100 50 red
+circle 200 100 25 green
+circle 300 100 10 blue
+circle 75 75 50 black
+polygon 100 100 200 300 300 200 black yellow
+line 400 450 35 90 5 yellow
+somethingelse 9294 12404 nicecolor
+circle 700 810 25 orange
+circle 600 600 105 black
+circle 600 600 100 yellow
+polygon 600 600 550 450 450 550 white white
+line 600 600 565 500 5 black
+line 600 600 500 565 5 black
+circle 450 450 50 blue
+polygon 400 450 500 450 500 550 400 550 blue blue
+circle 490 550 10 blue
+circle 410 550 10 blue
+circle 470 550 10 blue
+circle 430 550 10 blue
+circle 450 550 10 blue
+circle 475 450 10 white
+circle 425 450 10 white
+circle 472 445 4 blue
+circle 422 445 4 blue
+polygon -25 -25 50 -60 purple

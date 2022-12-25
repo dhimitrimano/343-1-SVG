@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="800">
+      <polygon points="0 0 0 800 800 800 800 0" fill="black" stroke="black"  />
+      <circle cx="500" cy="800" r="600" fill="dodgerblue"  />
+      <circle cx="500" cy="800" r="400" fill="blue"  />
+      <polygon points="100 300 300 400 400 300 300 100" fill="orangered" stroke="orangered"  />
+      <polygon points="300 400 400 450 450 400 400 300" fill="yellow" stroke="yellow"  />
+      <polygon points="400 450 450 475 475 450 450 400" fill="black" stroke="black"  />
+      <polygon points="400 300 300 100 600 100 500 300" fill="red" stroke="red"  />
+      <polygon points="400 450 450 400 400 400" fill="orange" stroke="orange"  />
+      <polygon points="100 300 300 400 300 500 100 600" fill="red" stroke="red"  />
+      <polygon points="100 300 -300 100 100 -300 300 100" fill="grey" stroke="grey"  />
+      <polygon points="475 450 450 400 0 0" fill="green" stroke="green"  />
+</svg>

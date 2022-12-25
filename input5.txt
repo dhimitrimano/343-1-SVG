@@ -1,0 +1,40 @@
+polygon 95 10 215 73 539 10 523 10 green black
+polygon 85 10 10 10 10 253 205 73 green black
+polygon 10 263 10 532 152 453 195 93 green black
+polygon 400 300 300 500 500 500 600 400 blue black
+polygon 400 300 300 500 600 400 orange black
+polygon 300 500 400 300 600 600 yellow black
+polygon 300 500 500 500 500 700 300 700 green black
+line 512 205 205 512 119 firebrick
+line 512 205 205 512 115 black
+line 512 205 205 512 111 firebrick
+line 512 205 205 512 107 black
+line 512 205 205 512 103 firebrick
+line 512 205 205 512 99 black
+line 512 205 205 512 95 firebrick
+line 512 205 205 512 91 black
+line 512 205 205 512 87 firebrick
+line 512 205 205 512 83 black
+line 512 205 205 512 79 firebrick
+line 512 205 205 512 75 black
+line 512 205 205 512 71 firebrick
+line 512 205 205 512 67 black
+line 512 205 205 512 63 firebrick
+line 512 205 205 512 59 black
+line 512 205 205 512 55 firebrick
+line 512 205 205 512 51 black
+line 512 205 205 512 47 firebrick
+line 512 205 205 512 43 black
+line 512 205 205 512 39 firebrick
+line 512 205 205 512 35 black
+line 512 205 205 512 31 firebrick
+line 512 205 205 512 27 black
+line 512 205 205 512 23 firebrick
+line 512 205 205 512 19 black
+line 512 205 205 512 15 firebrick
+line 512 205 205 512 11 black
+line 512 205 205 512 7 firebrick
+line 512 205 205 512 3 black
+circle 410 456 150 white
+circle 410 456 125 orchid
+line 800 800 0 0 10 red

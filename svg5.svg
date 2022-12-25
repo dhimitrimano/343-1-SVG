@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="800">
+      <polygon points="95 10 215 73 539 10 523 10" fill="green" stroke="black"  />
+      <polygon points="85 10 10 10 10 253 205 73" fill="green" stroke="black"  />
+      <polygon points="10 263 10 532 152 453 195 93" fill="green" stroke="black"  />
+      <polygon points="400 300 300 500 500 500 600 400" fill="blue" stroke="black"  />
+      <polygon points="400 300 300 500 600 400" fill="orange" stroke="black"  />
+      <polygon points="300 500 400 300 600 600" fill="yellow" stroke="black"  />
+      <polygon points="300 500 500 500 500 700 300 700" fill="green" stroke="black"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="119" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="115" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="111" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="107" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="103" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="99" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="95" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="91" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="87" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="83" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="79" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="75" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="71" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="67" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="63" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="59" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="55" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="51" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="47" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="43" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="39" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="35" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="31" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="27" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="23" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="19" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="15" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="11" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="firebrick" stroke-width="7" stroke-linecap="square"  />
+      <line x1="512" y1="205" x2="205" y2="512" stroke="black" stroke-width="3" stroke-linecap="square"  />
+      <circle cx="410" cy="456" r="150" fill="white"  />
+      <circle cx="410" cy="456" r="125" fill="orchid"  />
+      <line x1="800" y1="800" x2="0" y2="0" stroke="red" stroke-width="10" stroke-linecap="square"  />
+</svg>

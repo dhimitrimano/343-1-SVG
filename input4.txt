@@ -1,0 +1,11 @@
+polygon 0 0 0 800 800 800 800 0 black black
+circle 500 800 600 dodgerblue
+circle 500 800 400 blue
+polygon 100 300 300 400 400 300 300 100 orangered orangered
+polygon 300 400 400 450 450 400 400 300 yellow yellow
+polygon 400 450 450 475 475 450 450 400 black black
+polygon 400 300 300 100 600 100 500 300 red red
+polygon 400 450 450 400 400 400 orange orange
+polygon 100 300 300 400 300 500 100 600 red red
+polygon 100 300 -300 100 100 -300 300 100 grey grey
+polygon 475 450 450 400 0 0 green green

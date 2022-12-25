@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="800">
+      <polygon points="0 0 0 800 800 800 800 0" fill="black" stroke="black"  />
+      <circle cx="600" cy="500" r="72" fill="green"  />
+      <circle cx="300" cy="600" r="47" fill="yellow"  />
+      <circle cx="200" cy="350" r="94" fill="red"  />
+      <circle cx="79" cy="735" r="3" fill="lightgoldenrodyellow"  />
+      <circle cx="110" cy="144" r="4" fill="lightgoldenrodyellow"  />
+      <circle cx="115" cy="396" r="1" fill="lightgoldenrodyellow"  />
+      <circle cx="400" cy="496" r="6" fill="lightgoldenrodyellow"  />
+      <circle cx="743" cy="733" r="7" fill="lightgoldenrodyellow"  />
+      <circle cx="167" cy="20" r="4" fill="lightgoldenrodyellow"  />
+      <circle cx="86" cy="172" r="2" fill="lightgoldenrodyellow"  />
+      <polygon points="0 0 200 100 100 200" fill="cornflowerblue" stroke="black"  />
+      <polygon points="200 100 400 200 300 300" fill="cornflowerblue" stroke="black"  />
+      <polygon points="400 200 600 300 500 400" fill="cornflowerblue" stroke="black"  />
+      <polygon points="600 300 800 400 700 500" fill="cornflowerblue" stroke="black"  />
+      <polygon points="300 0 500 100 400 200" fill="cornflowerblue" stroke="black"  />
+      <polygon points="500 100 700 200 600 300" fill="cornflowerblue" stroke="black"  />
+      <polygon points="300 0 500 100 400 200" fill="cornflowerblue" stroke="black"  />
+      <polygon points="400 -100 600 0 500 100" fill="cornflowerblue" stroke="black"  />
+      <polygon points="600 0 800 100 700 200" fill="cornflowerblue" stroke="black"  />
+      <polygon points="700 -100 900 0 800 100" fill="cornflowerblue" stroke="black"  />
+      <polygon points="-100 100 100 200 0 300" fill="cornflowerblue" stroke="black"  />
+      <polygon points="500 400 700 500 600 600" fill="cornflowerblue" stroke="black"  />
+      <polygon points="200 400 400 500 300 600" fill="cornflowerblue" stroke="black"  />
+</svg>
